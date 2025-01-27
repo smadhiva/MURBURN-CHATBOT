@@ -69,7 +69,7 @@ To set up this project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/murburn-advisor-chatbot.git
+   git clone https://github.com/smadhiva/MURBURN-CHATBOT.git
    cd murburn-advisor-chatbot
    ```
 
